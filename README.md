@@ -1,2 +1,1 @@
-# employeemanagerapp
-Frontend employee manager app - Angular code
+Employee Manager app - Frontend - Angular code
